@@ -1,0 +1,85 @@
+############################
+# Unity generated folders
+############################
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+############################
+# Unity cache
+############################
+
+MemoryCaptures/
+Recordings/
+
+############################
+# Visual Studio / VSCode
+############################
+
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+############################
+# Rider / JetBrains
+############################
+
+.idea/
+
+############################
+# OS files
+############################
+
+.DS_Store
+Thumbs.db
+
+############################
+# Unity crash reports
+############################
+
+sysinfo.txt
+
+############################
+# Builds
+############################
+
+*.apk
+*.aab
+*.unitypackage
+
+############################
+# Video files (muy importante en tu caso)
+############################
+
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+############################
+# Large image exports
+############################
+
+*.exr
+*.tiff
+
+############################
+# Optional: keep empty folders
+############################
+
+!*/.gitkeep

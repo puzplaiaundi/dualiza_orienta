@@ -1,0 +1,10 @@
+# ninja log v5
+44	3764	7951017085448684	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	53f268939bf5e211
+33	3855	7951017085930905	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6f5f0d355e5702f
+10	3859	7951017086111740	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	2a2d5ef0a89c2118
+52	3995	7951017087789162	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	fd68761a1ae24a2e
+17	3998	7951017087718865	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	426a84eee64bc2dc
+25	4221	7951017090278188	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	dfdf636c10def906
+1	4403	7951017092013994	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e90ac08ee8b23bcb
+61	4408	7951017092049201	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5ee27257efea2a01
+4409	4615	7951017094255221	C:/Users/Pablo.HZ888015/Documents/Dualiza/vr/dualiza_orienta/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/p5u73q21/obj/arm64-v8a/libgame.so	47d1a1001c752c72

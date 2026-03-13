@@ -1,0 +1,2 @@
+C:\Users\Pablo.HZ888015\Documents\Dualiza\vr\dualiza_orienta\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Pablo.HZ888015\Documents\Dualiza\vr\dualiza_orienta\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

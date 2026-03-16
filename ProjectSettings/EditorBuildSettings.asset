@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene1Recibidor.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Escena360.unity
     guid: fd85fbed2a65f184b9e2413370290a4c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Escena360_eventos.unity
     guid: 07ace493f62a40742a105482b306aeac
+  - enabled: 1
+    path: Assets/Scenes/Escena360_RamTest 1.unity
+    guid: 82d0ddbb2bc0a5d4caf65cf5d307b9e7
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}

@@ -1289,7 +1289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdc6b9d9a90d3144f9482ad99525e73b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::giroCilindro
-  animator: {fileID: 0}
+  animator: {fileID: 536742833}
   nombreParametro: girado
   cont: 0
 --- !u!1 &619950550

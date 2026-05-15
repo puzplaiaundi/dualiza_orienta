@@ -140,7 +140,7 @@ o en la carpeta equivalente utilizada por las escenas.
 
 
 ```text
-[Enlace a drive] https://drive.google.com/drive/folders/1681xk_UwVFIGxQyUsTKHJzje0ZiRzadw?usp=drive_link
+[Enlace a drive]https://drive.google.com/drive/folders/1681xk_UwVFIGxQyUsTKHJzje0ZiRzadw?usp=drive_link
 ```
 
 ## Archivos excluidos del repositorio

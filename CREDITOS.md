@@ -41,6 +41,19 @@ Atribución original:
 > "Bed Curtain and Vital Signs Monitor" (https://skfb.ly/6SCRx) by Ethan Cragun is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 ---
+---
+
+### Personaje humano
+
+- **Recurso:** Modelo humano generado con MakeHuman
+- **Herramienta:** MakeHuman
+- **Fuente:** https://www.makehumancommunity.org/
+- **Uso en el proyecto:** Personaje humano utilizado como recurso 3D dentro de la experiencia VR.
+- **Modificaciones realizadas:** Adaptación de postura, escala, materiales e integración dentro de Unity.
+
+Atribución:
+
+> El personaje humano utilizado en este proyecto ha sido generado mediante MakeHuman y adaptado para su uso dentro de Unity en la experiencia Dualiza Orienta VR.
 
 ## Nota sobre licencias
 

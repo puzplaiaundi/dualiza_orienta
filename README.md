@@ -62,12 +62,10 @@ Entre ellas se incluyen escenas de presentación, instrucciones y espacios inter
 Algunas escenas destacadas son:
 
 - `Scene1Recibidor`
-- `Presentacion_Infor_video`
 - `Instrucciones_Infor_video`
 - `Instrucciones_Eri_video`
 - `RecibidorEri`
 - `RecibidorProcesador`
-- `Scene2Muro`
 
 La escena inicial y el orden de carga deben comprobarse desde:
 
@@ -140,10 +138,9 @@ o en la carpeta equivalente utilizada por las escenas.
 
 ### Carpeta de vídeos
 
-Añadir aquí el enlace a la carpeta de Google Drive:
 
 ```text
-ENLACE_A_DRIVE_AQUI
+https://drive.google.com/drive/folders/1681xk_UwVFIGxQyUsTKHJzje0ZiRzadw?usp=drive_link
 ```
 
 ## Archivos excluidos del repositorio

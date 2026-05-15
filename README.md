@@ -140,7 +140,7 @@ o en la carpeta equivalente utilizada por las escenas.
 
 
 ```text
-[Enlace a drive]https://drive.google.com/drive/folders/1681xk_UwVFIGxQyUsTKHJzje0ZiRzadw?usp=drive_link
+https://drive.google.com/drive/folders/1681xk_UwVFIGxQyUsTKHJzje0ZiRzadw?usp=drive_link
 ```
 
 ## Archivos excluidos del repositorio
@@ -189,9 +189,12 @@ git clone https://github.com/puzplaiaundi/dualiza_orienta.git
 
 6. Descargar los vídeos externos desde Drive, si procede.
 
-7. Colocar los vídeos en la carpeta correspondiente del proyecto.
+7. Colocar los vídeos en la carpeta correspondiente del proyecto
+8. ```text
+   Assets/Video/
+   ```
 
-8. Abrir una escena desde:
+9. Abrir una escena desde:
 
 ```text
 Assets/Scenes/Funcionales/
@@ -210,7 +213,7 @@ Para compilar el proyecto para Meta Quest:
 File > Build Settings
 ```
 
-3. Seleccionar Android como plataforma.
+3. Seleccionar Android como plataforma o mejor "Meta Quest".
 4. Comprobar que las escenas necesarias están añadidas en el orden correcto.
 5. Revisar la configuración de XR/OpenXR.
 6. Conectar el visor Meta Quest.
@@ -231,17 +234,15 @@ Si se usan vídeos muy pesados, se recomienda no incluirlos directamente dentro 
 - Documentar siempre dónde deben colocarse los recursos externos.
 - Revisar las referencias de los `VideoPlayer` si se mueven vídeos de carpeta.
 - Comprobar el orden de escenas en Build Settings antes de compilar.
+- 
 ## Créditos
 
-Este proyecto utiliza algunos modelos 3D procedentes de Sketchfab.
+Este proyecto utiliza algunos modelos 3D procedentes de Sketchfab y MakeHuman.
 
 Los créditos completos de los modelos 3D utilizados, junto con sus autores, enlaces originales y licencias, están disponibles en el archivo:
 
 [CREDITOS.md](CREDITOS.md)
 
-## Estado del proyecto
-
-El proyecto se encuentra en una versión estable de desarrollo...
 ## Estado del proyecto
 
 El proyecto se encuentra en una versión estable de desarrollo, con las escenas principales, scripts e interacciones básicas implementadas.
@@ -257,8 +258,8 @@ Quedan como posibles mejoras futuras:
 - Incorporación de instrucciones más detalladas para instalación y despliegue.
 
 ## Autoría
+Pablo Uzquiano Rey departamento de Berrikuntza del CIFP Plaiaundi de Irún.
 
-Proyecto desarrollado en el contexto de una experiencia de orientación inmersiva mediante realidad virtual.
 
 Repositorio:
 

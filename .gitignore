@@ -83,3 +83,42 @@ sysinfo.txt
 ############################
 
 !*/.gitkeep
+
+# Unity generated / build debug
+*_BurstDebugInformation_DoNotShip/
+############################
+# External video folders
+############################
+
+Assets/Video/
+Assets/Videos/
+
+############################
+# Executables accidentales
+############################
+
+*.exe
+###########################
+# Unity generated build folders
+############################
+
+.utmp/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+############################
+# Compressed backups
+############################
+
+*.zip
+*.rar
+*.7z
+# Unity recovery
+Assets/_Recovery/
+
+# Meta de archivos comprimidos ignorados
+*.zip.meta
+*.rar.meta
+*.7z.meta
+
+# Archivos fuente de cámara Insta360, si no son necesarios en Unity
+*.insp

@@ -3,19 +3,25 @@ using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-      public void LoadSceneByName(string sceneName)
+    // Esta variable aparecerá en el Inspector de cada escena
+    public string sceneToLoad; 
+
+    // Este es el método que llamarás desde el Animation Event
+    public void ExecuteLoad()
     {
-        SceneManager.LoadScene(sceneName);
-    }
-    void Start()
-    {
-        
+        if (!string.IsNullOrEmpty(sceneToLoad))
+        {
+            SceneManager.LoadScene(sceneToLoad);
+        }
+        else
+        {
+            Debug.LogError("¡No has puesto nombre de escena en el Inspector!");
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    // Mantienes este por si lo usas en otros sitios
+    public void LoadSceneByName(string sceneName)
     {
-        
+        SceneManager.LoadScene(sceneName);
     }
 }

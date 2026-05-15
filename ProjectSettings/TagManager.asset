@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - Cepillo
   layers:
   - Default
   - TransparentFX
@@ -12,8 +13,8 @@ TagManager:
   - Decoracion
   - Water
   - UI
-  - 
-  - 
+  - RAM
+  - Placa
   - 
   - 
   - 

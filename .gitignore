@@ -86,11 +86,7 @@ sysinfo.txt
 
 # Unity generated / build debug
 *_BurstDebugInformation_DoNotShip/
-############################
-# External video folders
-############################
 
-Assets/Video/
 Assets/Videos/
 
 ############################

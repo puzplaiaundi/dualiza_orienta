@@ -258,7 +258,8 @@ Quedan como posibles mejoras futuras:
 - Incorporación de instrucciones más detalladas para instalación y despliegue.
 
 ## Autoría
-Pablo Uzquiano Rey departamento de Berrikuntza del CIFP Plaiaundi de Irún.
+Pablo Uzquiano.
+Departamento de Berrikuntza del CIFP Plaiaundi de Irún.
 
 
 Repositorio:

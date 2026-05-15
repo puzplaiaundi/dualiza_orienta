@@ -234,7 +234,17 @@ Si se usan vídeos muy pesados, se recomienda no incluirlos directamente dentro 
 - Documentar siempre dónde deben colocarse los recursos externos.
 - Revisar las referencias de los `VideoPlayer` si se mueven vídeos de carpeta.
 - Comprobar el orden de escenas en Build Settings antes de compilar.
+## Créditos
 
+Este proyecto utiliza algunos modelos 3D procedentes de Sketchfab.
+
+Los créditos completos de los modelos 3D utilizados, junto con sus autores, enlaces originales y licencias, están disponibles en el archivo:
+
+[CREDITOS.md](CREDITOS.md)
+
+## Estado del proyecto
+
+El proyecto se encuentra en una versión estable de desarrollo...
 ## Estado del proyecto
 
 El proyecto se encuentra en una versión estable de desarrollo, con las escenas principales, scripts e interacciones básicas implementadas.
